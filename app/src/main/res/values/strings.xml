@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">theChance_firstTask_SeasonTwo</string>
+    <string name="syria_aleppo">Syria, Aleppo</string>
+    <string name="todo">TODO</string>
+    <string name="_36_5">36.5</string>
+    <string name="c">C</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="_38_5">38.5</string>
+    <string name="visibility">Visibility</string>
+    <string name="_27">27 %</string>
+    <string name="_13_9">13.9</string>
+    <string name="km_h">km/h</string>
+    <string name="wind">Wind</string>
+    <string name="beaufort">Beaufort</string>
+    <string name="pressure">Pressure</string>
+    <string name="_1007_1">1007.1</string>
+    <string name="mbar">mbar</string>
+    <string name="humidity">Humidity</string>
+    <string name="clouds">Clouds</string>
+    <string name="syria">Syria</string>
+    <string name="ok">OK</string>
+    <string name="search">search</string>
+</resources>
